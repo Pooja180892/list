@@ -1,6 +1,6 @@
->>> data types in python:
->>> List:
->>>Features of list:
+>>> data types in python==>
+>>> List==>
+>>>Features of list==>
 >>> It is Mutable
 >>>Background data structure is array.
 >>> it allows Slicing, indexing 
@@ -9,7 +9,7 @@
 >>> l
 ['Rushi', 55, 'Abhishek', 84.4]
 ------------------------------------------------------
-Methods of list:
+>>>Methods of list==>
 >>>Append()==> Used for appending and adding elements to the end of the List
 >>> l.append(10)
 >>> l
